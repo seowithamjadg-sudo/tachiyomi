@@ -1,0 +1,1 @@
+Tachiyomi is a popular manga reader that lets users explore and organize manga from multiple sources in one app. [Tachiyomi](https://tachiyomis.com/) offers a clean interface, customizable reading modes, and extension support, making it a favorite choice for manga enthusiasts.
